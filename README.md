@@ -14,6 +14,7 @@ What is the total layoff for each company, industry, country, company stage
 Analyse year wise layoff trend
 
 **SQL**
+
 The obtained data was cleaned using SQL, and Exploratory Data Analysis (EDA) was conducted to address the above problem statement. The SQL query file has been added separately to the repository. This analysis provides insights into the layoff patterns and trends across various companies, industries, countries, and over time.
 
 **Power BI**
@@ -32,4 +33,5 @@ The obtained data was cleaned using SQL, and Exploratory Data Analysis (EDA) was
 **Funding Insights :** The dashboard correlates company funding with layoff figures, providing insights into how financial dynamics influence workforce reductions.
 
 **Conclusion**
+
 The Company Layoff Dashboard serves as a crucial tool for understanding the scope and impact of layoffs in the corporate world. By highlighting key trends and patterns, it helps stakeholders make informed decisions and strategize for future workforce management and economic planning.
